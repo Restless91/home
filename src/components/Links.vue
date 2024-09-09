@@ -70,6 +70,10 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  AppStoreIos,
+  Certificate,
+  Store,
+  Ad,
 };
 
 // 链接跳转
