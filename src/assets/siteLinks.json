@@ -13,20 +13,5 @@
     "icon": "AppStoreIos",
     "name": "软件源",
     "link": "https://blog.91ios.fun/579.html"
-  },
-    {
-    "icon": "Certificate",
-    "name": "签名",
-    "link": "https://app.91ios.fun/"
-  },
-  {
-    "icon": "Store",
-    "name": "商城",
-    "link": "https://faka.91ios.fun/"
-  },
-  {
-    "icon": "Ad",
-    "name": "广告联盟",
-    "link": "https://ad.91ios.fun"
   }
 ]
