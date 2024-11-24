@@ -13,17 +13,17 @@
     "icon": "AppStoreIos",
     "name": "软件源",
     "link": "https://blog.91ios.fun/579.html"
-  }
+  },
    {
     "icon": "Store",
     "name": "商店",
     "link": "https://faka.91ios.fun"
-  }
+  },
   {
     "icon": "Certificate",
     "name": "P12签名站",
-    "link": "https://faka.91ios.fun"
-  }
+    "link": "https://app.91ios.fun"
+  },
    {
     "icon": "CloudDownloadAlt",
     "name": "度盘直链解析",
