@@ -20,13 +20,13 @@
     "link": "https://faka.91ios.fun"
   },
   {
-    "icon": "Certificate",
-    "name": "P12签名站",
+    "icon": "Search",
+    "name": "网盘资源搜索",
     "link": "https://app.91ios.fun"
   },
    {
     "icon": "CloudDownloadAlt",
-    "name": "度盘直链解析",
+    "name": "百度网盘直链解析",
     "link": "https://pan.91ios.fun"
   }
 ]
